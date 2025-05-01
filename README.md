@@ -1,4 +1,4 @@
-#Simple Go Port Scanner
+# Simple Go Port Scanner
 
 A basic TCP port scanner written in Go. This project is a simple implementation designed for learning and understanding fundamental network programming concepts in Go. It scans a specified host for open ports within a defined range using goroutines for concurrent scanning.
 
